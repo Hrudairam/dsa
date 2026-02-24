@@ -1,4 +1,4 @@
-#write a code to create a stack using a class and access the elements in the stack
+# write a code to create a stack using a class and access the elements in the stack
 class stack:
     def __init__(self):
         self.stack= []
